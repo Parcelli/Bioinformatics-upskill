@@ -7,12 +7,13 @@ bwa index -p mecA ../mecA.fa
 
 #Step 2: Aligning reads to the mecA gene using bwa mem
 # Step 3: convert sam files to bam file
+#Sorting bam files by location using samtools sort
 for file in *.1.fastq;
 do
     name=$(basename ${file} .1.fastq)
     echo ${name}
     bwa mem  ../mecA  ${file} ${name}.2.fastq > ${name}.sam
-    samtools view -h  -b  ${name}.sam >${name}.bam
+    samtools view -h  -b  ${name}.sam >${name}.bam 
 done
-s
+
 
