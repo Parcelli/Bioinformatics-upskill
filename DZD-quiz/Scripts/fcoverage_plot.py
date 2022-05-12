@@ -1,14 +1,10 @@
 #Plotting the frational coverage 
 import matplotlib.pyplot as plt
-data = pd.read_csv('fractional_coverage.csv')
-  
-df = pd.DataFrame(data)
-
-X = list(df.iloc[:, 0])
-Y = list(df.iloc[:, 1])
+y=df['coverage']
+x=df['sample']
   
 # Plot the data using bar() method
-plt.bar(X, Y, color='m')
+plt.bar(x, y, color='m')
 plt.title("Genome fractional coverage")
 plt.xlabel("Sample")
 plt.ylabel("Fractional coverage")
