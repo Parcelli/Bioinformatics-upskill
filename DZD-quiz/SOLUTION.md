@@ -15,15 +15,17 @@ Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob
 
 Question 1 : bash align.sh mecA.fa
 
-Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/align.sh)
+Q1 script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/align.sh)
 
 Question 2: bash coverage.sh
 
-Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
+Q2 script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
+
+Question 3
 
 python 3 fractional_coverage.py   5
 
-Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/fractional_coverage.py)
+Q3 script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/fractional_coverage.py)
 
 
 
