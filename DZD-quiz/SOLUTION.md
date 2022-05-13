@@ -37,9 +37,11 @@ path.  ]
 
 #### 3. Visualizing Fractional Coverage
 
-[  Please include the resulting plot here. You can include images in `markdown` like 
-`!(Fractional coverage)[https://drive.google.com/file/d/1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL/view?usp=sharing]`.  ]
+[  Please include the resulting plot here. You can include images in `markdown` like] 
 
+!(Fractional coverage)[https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL]
+
+https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL
 <br> 
 https://drive.google.com/file/d/1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL/view?usp=sharing
 
