@@ -13,6 +13,7 @@ Question 2: bash coverage.sh
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
 
 **Computing fractional coverage and plotting the bar plot**
+
 python 3 coverage.py sample0.txt  5
 
 
@@ -39,7 +40,8 @@ path.  ]
 
 [  Please include the resulting plot here. You can include images in `markdown` like] 
 
-!(Fractional coverage)[https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL]
+![fractional coverage](https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL)
+
 
 https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL
 <br> 
