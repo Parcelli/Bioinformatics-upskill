@@ -7,9 +7,11 @@
 **Note**:Run the code within the sample_data directory.
 
 Question 1 : bash align.sh mecA.fa
+
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/align.sh)
 
 Question 2: bash coverage.sh
+
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
 
 **Computing fractional coverage and plotting the bar plot**
@@ -40,7 +42,7 @@ path.  ]
 
 [  Please include the resulting plot here. You can include images in `markdown` like] 
 
-![fractional coverage](https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL)
+![fractional coverage](https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL)   
 
 
 https://drive.google.com/uc?export=view&id=1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL
