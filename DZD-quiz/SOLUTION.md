@@ -4,7 +4,14 @@
 ## Solutions 
 
 [  Please provide the command to invoke the script that reproduces the below solutions here.  ] 
+
 **Note**:Run the code within the sample_data directory.
+
+python 3 coverage.py 5
+
+Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/coverage.py)
+
+**Path to my scripts**
 
 Question 1 : bash align.sh mecA.fa
 
@@ -14,9 +21,11 @@ Question 2: bash coverage.sh
 
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
 
-**Computing fractional coverage and plotting the bar plot**
+python 3 fractional_coverage.py   5
 
-python 3 coverage.py sample0.txt  5
+Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/fractional_coverage.py)
+
+
 
 
 #### 1. Alignment   
