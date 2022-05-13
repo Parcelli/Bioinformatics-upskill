@@ -5,11 +5,14 @@
 
 [  Please provide the command to invoke the script that reproduces the below solutions here.  ] 
 **Note**:Run the code within the sample_data directory.
+
 Question 1 : bash align.sh mecA.fa
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/align.sh)
+
 Question 2: bash coverage.sh
 Path to my script [Path](https://github.com/Parcelli/Bioinformatics-upskill/blob/main/DZD-quiz/Scripts/coverage.sh)
-*Computing fractional coverage and plotting the bar plot*
+
+**Computing fractional coverage and plotting the bar plot**
 python 3 coverage.py sample0.txt  5
 
 
@@ -30,19 +33,15 @@ path.  ]
 | sample2  |0.23376623376623376 |
 | sample 3  |0.9734848484848485 |
  
-sample,coverage
-sample0,0.6307692307692307
-sample1,1.0
-sample2,0.23376623376623376
-sample3,0.9734848484848485
+
 
 #### 3. Visualizing Fractional Coverage
 
 [  Please include the resulting plot here. You can include images in `markdown` like 
-`!(image_name)[/path/to/image]`.  ]
+`!(Fractional coverage)[https://drive.google.com/file/d/1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL/view?usp=sharing]`.  ]
 
 <br> 
-
+https://drive.google.com/file/d/1P1mfDcOftG7TOzDgFKX-3fdA-Xu1p3nL/view?usp=sharing
 
 #### 4. Align and Analyze Genome Coverage (Bonus)
 
