@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+
+#Running the align-coverage.sh from python
+import subprocess 
+exit_code = subprocess.call(['bash','align-coverage.sh']) 
+print(exit_code) 
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import csv
