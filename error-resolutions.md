@@ -8,6 +8,7 @@ fatal: Authentication failed for 'https://github.com/Parcelli/Data_Mining.git/'
 ```
 ### Solution
 * Step One : Create a Personal Access Token on Github
+
 - Click on your GitHub profile icon on the top right corner
 - Click Settings
 - From the menu shown on the left, click Developer Settings
@@ -18,16 +19,16 @@ fatal: Authentication failed for 'https://github.com/Parcelli/Data_Mining.git/'
 - Finally, select the scopes you want to grant the corresponding access to the generated access token.
 - Finally click Generate Token
 
-* Step Two : Change repository URL
+#### Step Two : Change repository URL
 ```
 git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
 ```
 Replace : 
-- <githubtoken> with the personal access token you have copied in the previous step
-- <username> with your GitHub username
-- <repositoryname> with the name of your GitHub repository
+- (githubtoken) with the personal access token you have copied in the previous step
+- (username) with your GitHub username
+- (repositoryname) with the name of your GitHub repository
 
-* Test that it works
+#### Step Three : Test that it works
 Try to push changes from local to remote
 
 ```
