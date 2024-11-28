@@ -46,4 +46,9 @@ BiocManager::install("ggtree")
 
 ```
 ### Load your library
+```
+library(ggtree)
+```
+### Data
+Data used in this tutorial can be downloaded from this link : https://4va.github.io/biodatasci/data/tree_newick.nwk 
 
